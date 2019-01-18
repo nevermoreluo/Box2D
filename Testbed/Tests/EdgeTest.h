@@ -18,7 +18,7 @@
 
 #ifndef EDGE_TEST_H
 #define EDGE_TEST_H
-
+#include "Framework/Test.h"
 class EdgeTest : public Test
 {
 public:

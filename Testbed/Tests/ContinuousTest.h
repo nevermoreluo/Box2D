@@ -18,7 +18,7 @@
 
 #ifndef CONTINUOUS_TEST_H
 #define CONTINUOUS_TEST_H
-
+#include "Framework/Test.h"
 class ContinuousTest : public Test
 {
 public:

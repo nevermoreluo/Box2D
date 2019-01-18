@@ -18,7 +18,7 @@
 
 #ifndef COLLISION_FILTERING_H
 #define COLLISION_FILTERING_H
-
+#include "Framework/Test.h"
 // This is a test of collision filtering.
 // There is a triangle, a box, and a circle.
 // There are 6 shapes. 3 large and 3 small.

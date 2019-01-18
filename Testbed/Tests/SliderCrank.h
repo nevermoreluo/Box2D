@@ -18,7 +18,7 @@
 
 #ifndef SLIDER_CRANK_H
 #define SLIDER_CRANK_H
-
+#include "Framework/Test.h"
 // A motor driven slider crank with joint friction.
 
 class SliderCrank : public Test

@@ -18,7 +18,7 @@
 
 #ifndef PULLEYS_H
 #define PULLEYS_H
-
+#include "Framework/Test.h"
 class Pulleys : public Test
 {
 public:

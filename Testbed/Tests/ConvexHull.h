@@ -18,7 +18,7 @@
 
 #ifndef CONVEX_HULL_H
 #define CONVEX_HULL_H
-
+#include "Framework/Test.h"
 class ConvexHull : public Test
 {
 public:

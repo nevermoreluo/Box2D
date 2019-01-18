@@ -18,7 +18,7 @@
 
 #ifndef HEAVY_ON_LIGHT_H
 #define HEAVY_ON_LIGHT_H
-
+#include "Framework/Test.h"
 class HeavyOnLight : public Test
 {
 public:

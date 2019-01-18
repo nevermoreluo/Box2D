@@ -18,7 +18,7 @@
 
 #ifndef PYRAMID_H
 #define PYRAMID_H
-
+#include "Framework/Test.h"
 class Pyramid : public Test
 {
 public:

@@ -18,7 +18,7 @@
 
 #ifndef SHAPE_EDITING_H
 #define SHAPE_EDITING_H
-
+#include "Framework/Test.h"
 class ShapeEditing : public Test
 {
 public:

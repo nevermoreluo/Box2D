@@ -18,7 +18,7 @@
 
 #ifndef DISTANCE_TEST_H
 #define DISTANCE_TEST_H
-
+#include "Framework/Test.h"
 class DistanceTest : public Test
 {
 public:

@@ -18,7 +18,7 @@
 
 #ifndef MOBILE_H
 #define MOBILE_H
-
+#include "Framework/Test.h"
 class Mobile : public Test
 {
 public:

@@ -18,7 +18,7 @@
 
 #ifndef SPHERE_STACK_H
 #define SPHERE_STACK_H
-
+#include "Framework/Test.h"
 class SphereStack : public Test
 {
 public:

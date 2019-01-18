@@ -18,7 +18,7 @@
 
 #ifndef DUMP_SHELL_H
 #define DUMP_SHELL_H
-
+#include "Framework/Test.h"
 // This test holds worlds dumped using b2World::Dump.
 class DumpShell : public Test
 {

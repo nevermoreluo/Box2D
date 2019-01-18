@@ -18,7 +18,7 @@
 
 #ifndef BREAKABLE_TEST_H
 #define BREAKABLE_TEST_H
-
+#include "Framework/Test.h"
 // This is used to test sensor shapes.
 class Breakable : public Test
 {

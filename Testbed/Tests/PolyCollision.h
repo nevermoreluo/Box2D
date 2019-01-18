@@ -18,7 +18,7 @@
 
 #ifndef POLYCOLLISION_H
 #define POLYCOLLISION_H
-
+#include "Framework/Test.h"
 class PolyCollision : public Test
 {
 public:

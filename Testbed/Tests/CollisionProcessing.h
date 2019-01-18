@@ -18,7 +18,7 @@
 
 #ifndef COLLISION_PROCESSING_H
 #define COLLISION_PROCESSING_H
-
+#include "Framework/Test.h"
 #include <algorithm>
 
 // This test shows collision processing and tests

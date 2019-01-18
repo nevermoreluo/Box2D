@@ -18,7 +18,7 @@
 
 #ifndef CONVEYOR_BELT_H
 #define CONVEYOR_BELT_H
-
+#include "Framework/Test.h"
 class ConveyorBelt : public Test
 {
 public:

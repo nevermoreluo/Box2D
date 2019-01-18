@@ -18,6 +18,7 @@
 
 #ifndef TUMBLER_H
 #define TUMBLER_H
+#include "Framework/Test.h"
 
 class Tumbler : public Test
 {

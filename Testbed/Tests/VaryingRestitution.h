@@ -18,7 +18,7 @@
 
 #ifndef VARYING_RESTITUTION_H
 #define VARYING_RESTITUTION_H
-
+#include "Framework/Test.h"
 // Note: even with a restitution of 1.0, there is some energy change
 // due to position correction.
 class VaryingRestitution : public Test

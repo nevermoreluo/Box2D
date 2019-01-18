@@ -21,7 +21,7 @@
 
 #ifndef THEO_JANSEN_H
 #define THEO_JANSEN_H
-
+#include "Framework/Test.h"
 class TheoJansen : public Test
 {
 public:

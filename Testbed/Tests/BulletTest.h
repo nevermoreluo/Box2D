@@ -18,7 +18,7 @@
 
 #ifndef BULLET_TEST_H
 #define BULLET_TEST_H
-
+#include "Framework/Test.h"
 class BulletTest : public Test
 {
 public:

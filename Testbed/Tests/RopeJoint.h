@@ -18,7 +18,7 @@
 
 #ifndef ROPE_JOINT_H
 #define ROPE_JOINT_H
-
+#include "Framework/Test.h"
 /// This test shows how a rope joint can be used to stabilize a chain of
 /// bodies with a heavy payload. Notice that the rope joint just prevents
 /// excessive stretching and has no other effect.

@@ -18,7 +18,7 @@
 
 #ifndef CHAIN_H
 #define CHAIN_H
-
+#include "Framework/Test.h"
 class Chain : public Test
 {
 public:

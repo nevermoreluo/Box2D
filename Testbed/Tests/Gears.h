@@ -18,7 +18,7 @@
 
 #ifndef GEARS_H
 #define GEARS_H
-
+#include "Framework/Test.h"
 class Gears : public Test
 {
 public:

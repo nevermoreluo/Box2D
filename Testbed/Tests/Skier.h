@@ -7,7 +7,7 @@ Test case for collision/jerking issue.
 
 #include <vector>
 #include <iostream>
-
+#include "Framework/Test.h"
 
 class Skier : public Test
 {

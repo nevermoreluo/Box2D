@@ -18,7 +18,7 @@
 
 #ifndef PRISMATIC_H
 #define PRISMATIC_H
-
+#include "Framework/Test.h"
 // The motor in this test gets smoother with higher velocity iterations.
 class Prismatic : public Test
 {

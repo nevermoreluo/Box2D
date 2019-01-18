@@ -19,6 +19,9 @@
 #ifndef WEB_H
 #define WEB_H
 
+#include "Framework/Test.h"
+
+
 // This tests distance joints, body destruction, and joint destruction.
 class Web : public Test
 {

@@ -18,7 +18,7 @@
 
 #ifndef REVOLUTE_H
 #define REVOLUTE_H
-
+#include "Framework/Test.h"
 class Revolute : public Test
 {
 public:

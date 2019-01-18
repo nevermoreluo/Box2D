@@ -18,7 +18,7 @@
 
 #ifndef CAR_H
 #define CAR_H
-
+#include "Framework/Test.h"
 // This is a fun demo that shows off the wheel joint
 class Car : public Test
 {

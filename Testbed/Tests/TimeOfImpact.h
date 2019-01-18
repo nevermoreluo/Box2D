@@ -18,7 +18,7 @@
 
 #ifndef TIME_OF_IMPACT_H
 #define TIME_OF_IMPACT_H
-
+#include "Framework/Test.h"
 class TimeOfImpact : public Test
 {
 public:

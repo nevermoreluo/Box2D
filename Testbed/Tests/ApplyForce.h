@@ -18,7 +18,7 @@
 
 #ifndef APPLY_FORCE_H
 #define APPLY_FORCE_H
-
+#include "Framework/Test.h"
 class ApplyForce : public Test
 {
 public:

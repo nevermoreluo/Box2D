@@ -18,7 +18,7 @@
 
 #ifndef ROPE_H
 #define ROPE_H
-
+#include "Framework/Test.h"
 ///
 class Rope : public Test
 {

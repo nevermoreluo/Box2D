@@ -18,7 +18,7 @@
 
 #ifndef POLY_SHAPES_H
 #define POLY_SHAPES_H
-
+#include "Framework/Test.h"
 /// This tests stacking. It also shows how to use b2World::Query
 /// and b2TestOverlap.
 

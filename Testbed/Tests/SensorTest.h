@@ -18,7 +18,7 @@
 
 #ifndef SENSOR_TEST_H
 #define SENSOR_TEST_H
-
+#include "Framework/Test.h"
 // This is used to test sensor shapes.
 class SensorTest : public Test
 {

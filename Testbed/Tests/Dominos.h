@@ -18,7 +18,7 @@
 
 #ifndef DOMINOS_H
 #define DOMINOS_H
-
+#include "Framework/Test.h"
 class Dominos : public Test
 {
 public:

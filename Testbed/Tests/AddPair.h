@@ -18,7 +18,7 @@
 
 #ifndef AddPair_H
 #define AddPair_H
-
+#include "Framework/Test.h"
 class AddPair : public Test
 {
 public:

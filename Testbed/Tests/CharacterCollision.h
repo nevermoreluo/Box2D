@@ -18,7 +18,7 @@
 
 #ifndef CHARACTER_COLLISION_H
 #define CHARACTER_COLLISION_H
-
+#include "Framework/Test.h"
 /// This is a test of typical character collision scenarios. This does not
 /// show how you should implement a character in your application.
 /// Instead this is used to test smooth collision on edge chains.

@@ -18,7 +18,7 @@
 
 #ifndef PINBALL_H
 #define PINBALL_H
-
+#include "Framework/Test.h"
 /// This tests bullet collision and provides an example of a gameplay scenario.
 /// This also uses a loop shape.
 class Pinball : public Test

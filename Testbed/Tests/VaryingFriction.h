@@ -18,6 +18,7 @@
 
 #ifndef VARYING_FRICTION_H
 #define VARYING_FRICTION_H
+#include "Framework/Test.h"
 
 class VaryingFriction : public Test
 {

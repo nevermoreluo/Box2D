@@ -18,7 +18,7 @@
 
 #ifndef CONFINED_H
 #define CONFINED_H
-
+#include "Framework/Test.h"
 class Confined : public Test
 {
 public:

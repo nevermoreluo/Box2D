@@ -18,7 +18,7 @@
 
 #ifndef CHAIN_PROBLEM_H
 #define CHAIN_PROBLEM_H
-
+#include "Framework/Test.h"
 class chainProblem : public Test
 {
 public:

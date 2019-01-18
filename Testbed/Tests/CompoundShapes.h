@@ -18,7 +18,7 @@
 
 #ifndef COMPOUND_SHAPES_H
 #define COMPOUND_SHAPES_H
-
+#include "Framework/Test.h"
 // TODO_ERIN test joints on compounds.
 class CompoundShapes : public Test
 {

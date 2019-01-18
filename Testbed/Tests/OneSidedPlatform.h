@@ -18,7 +18,7 @@
 
 #ifndef ONE_SIDED_PLATFORM_H
 #define ONE_SIDED_PLATFORM_H
-
+#include "Framework/Test.h"
 class OneSidedPlatform : public Test
 {
 public:

@@ -18,7 +18,7 @@
 
 #ifndef MOBILE_BALANCED_H
 #define MOBILE_BALANCED_H
-
+#include "Framework/Test.h"
 class MobileBalanced : public Test
 {
 public:

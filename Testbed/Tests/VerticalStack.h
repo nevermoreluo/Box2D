@@ -18,6 +18,7 @@
 
 #ifndef VERTICAL_STACK_H
 #define VERTICAL_STACK_H
+#include "Framework/Test.h"
 
 extern bool g_blockSolve;
 

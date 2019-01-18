@@ -18,7 +18,7 @@
 
 #ifndef MOTOR_JOINT_H
 #define MOTOR_JOINT_H
-
+#include "Framework/Test.h"
 /// This test shows how to use a motor joint. A motor joint
 /// can be used to animate a dynamic body. With finite motor forces
 /// the body can be blocked by collision with other bodies.

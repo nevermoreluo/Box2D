@@ -18,7 +18,7 @@
 
 #ifndef DYNAMIC_TREE_TEST_H
 #define DYNAMIC_TREE_TEST_H
-
+#include "Framework/Test.h"
 class DynamicTreeTest : public Test
 {
 public:

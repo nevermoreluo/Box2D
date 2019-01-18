@@ -18,7 +18,7 @@
 
 #ifndef BODY_TYPES_H
 #define BODY_TYPES_H
-
+#include "Framework/Test.h"
 class BodyTypes : public Test
 {
 public:
